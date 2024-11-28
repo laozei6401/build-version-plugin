@@ -1,0 +1,14 @@
+{
+  "name": "@laozei/build-version-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "laozei",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}
